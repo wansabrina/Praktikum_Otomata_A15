@@ -1,5 +1,5 @@
 import re
-import vs as ctk
+import customtkinter as ctk
 from tkinter import messagebox
 
 def is_palindrome(s: str) -> bool:
